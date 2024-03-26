@@ -3,7 +3,7 @@
 
   <h2>About Me</h2>
 <ul>
-    <li>🎓 Currently pursuing a degree in Computer Engineering at the Instituto Tecnológico de Costa Rica.</li>
+    <li>🎓 Currently pursuing a degree in Software Engineering at the Instituto Tecnológico de Costa Rica.</li>
     <li>💻 I'm enthusiastic about software development, particularly in putting into practice what I've learned, but above all, the constant learning of new languages and technologies. </li>
     <li>🔧 Always eager to learn and grow, I'm constantly expanding my skills and exploring new technologies. Whether it's through personal projects or collaborating with peers, I'm always seeking to push the boundaries of what I can create.</li>
 
