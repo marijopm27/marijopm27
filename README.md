@@ -1,5 +1,8 @@
-<h1 align="center">Hello 👋</h1>
-  <p>Welcome to my GitHub profile! I'm María José Porras, a passionate student exploring the realms of coding and technology. </p>
+<p align="left">
+  <img src="BannerGif.gif" alt="Banner GIF">
+</p>
+<h1 align="center">Hello,  I'm María José Porras 👋</h1>
+  <p>Welcome to my GitHub profile!! </p>
 
   <h2>About Me</h2>
 <ul>
