@@ -127,10 +127,10 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maría-josé-porras-maroto" target="blank">
+<a href="https://www.linkedin.com/in/maría-josé-porras-maroto" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mar%c3%ada-jos%c3%a9-porras-maroto-2013b8264/" height="30" width="40" />
 </a>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mar%c3%ada-jos%c3%a9-porras-maroto-2013b8264/" height="30" width="40" /></a>
 </p>
 
   <h2>Top Languages</h2>
